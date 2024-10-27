@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
+  <a href="https://youtube.com/@web_developer-cn3ii?si=v5I2F1hxxWp4g8XX" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://t.me/tehnomaniak07" target="_blank">
